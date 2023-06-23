@@ -1,2 +1,1 @@
 # arizona-launcher
-arizona-launcher
